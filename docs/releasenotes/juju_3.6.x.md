@@ -6,9 +6,7 @@ myst:
 
 (juju36x)=
 # Juju 3.6 (LTS)
-> April 2039: expected end of security fix support
->
-> 1 May 2026: expected end of bug fix support
+> April 2039: expected end of security and critical bug fix support
 
 ```{note}
 Juju 3.6 series is LTS
