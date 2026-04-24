@@ -338,7 +338,8 @@ html_css_files = [
 # Adds custom JavaScript files, located under 'html_static_path'
 
 html_js_files = [
-    "https://assets.ubuntu.com/v1/287a5e8f-
+    "https://assets.ubuntu.com/v1/287a5e8f-bundle.js",
+]
 
 # Specifies a reST snippet to be appended to each .rst file
 
